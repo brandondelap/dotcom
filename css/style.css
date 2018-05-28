@@ -14,7 +14,7 @@ body, html {
 }
 
 .bgimg-1 {
-  background-image: url('venice.JPG');
+  background-image: url('../image/venice.JPG');
   height: 100%;
 }
 
